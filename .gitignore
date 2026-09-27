@@ -38,7 +38,6 @@ contracts/escrow/test_snapshots/
 # OS / editor artefacts
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -64,3 +63,7 @@ temp/
 
 # Generated API docs (TypeDoc)
 docs/api/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
